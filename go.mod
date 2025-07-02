@@ -1,4 +1,4 @@
-module sre-create-invoice-apife
+module sretest-apife
 
 go 1.24.4
 
